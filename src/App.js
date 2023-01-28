@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div id="wrapper">
+    <div id="wrapper" className="bg-[#36454F]">
 
       {/* For Meta and Heading */}
       <Helmet>
